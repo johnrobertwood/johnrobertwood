@@ -28,7 +28,7 @@ I am currently learning C# & .NET.
 <a href="https://www.linkedin.com/in/woodjohn185/" rel="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="linkedin icon" width="75"></a>
 
 ## Check Out my Demo Project
-<a href="https://banjojammer.com/" rel="portfolio"><img src="https://imgur.com/5Fq6Sli" alt="portfolio icon" width="75"></a>
+<a href="https://banjojammer.com/" rel="portfolio"><img src="https://i.imgur.com/5Fq6Sli.png" alt="portfolio icon" width="75"></a>
 
 ## My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=johnrobertwood&card_width=495)](https://git.io/streak-stats)
