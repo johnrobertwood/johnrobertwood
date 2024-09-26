@@ -19,7 +19,7 @@ I'm a full stack JavaScript developer with over 7 years of experience.
 |     7|Spring|
 |     8|Next.js|
 |     9|Nest.js|
-|     10|PHP|
+|     10|Python|
 
 ## What I am Currently Learning
 I am currently learning C# & .NET.
