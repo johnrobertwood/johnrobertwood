@@ -1,11 +1,5 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=300&color=gradient&text=Hello!%20I'm%20John&textBg=false&animation=scaleIn">
- <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=Hello!%20I'm%20John&textBg=false&animation=scaleIn">
- <img alt="gradient header image introducing John" src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=gradient&text=Hello!%20I'm%20John&textBg=false&animation=scaleIn">
-</picture>
-
 ## About Me
-I'm a full stack JavaScript developer with over 7 years of experience.
+I'm Senior Software Engineer with over 7 years of experience in JavaScript, Java and AWS currently working for WGU.
 
 ## My Tech Stack
 | | Languages & Tools |
