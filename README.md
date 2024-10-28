@@ -1,5 +1,5 @@
 ## About Me
-I'm Senior Software Engineer with over 7 years of experience in JavaScript, Java and AWS currently working for WGU.
+I'm a Senior Software Engineer with over 7 years of experience in JavaScript, Java and AWS currently working for WGU.
 
 ## My Tech Stack
 | | Languages & Tools |
