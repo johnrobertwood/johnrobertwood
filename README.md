@@ -15,9 +15,6 @@ I'm a Senior Software Engineer with over 7 years of experience in JavaScript, Ja
 |     9|Nest.js|
 |     10|Python|
 
-## What I am Currently Learning
-I am currently learning C# & .NET.
-
 ## Connect with Me
 <a href="https://www.linkedin.com/in/woodjohn185/" rel="social"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="linkedin icon" width="75"></a>
 
